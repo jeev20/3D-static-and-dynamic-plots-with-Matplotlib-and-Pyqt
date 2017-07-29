@@ -13,7 +13,7 @@ Edit class MyDynamicMplCanvas
 Result: 
 
 
-![alt tag](https://github.com/jeev20/3D-static-and-dynamic-plots-with-Matplotlib-and-Pyqt/blob/master/Example.png?raw=true)
+![alt tag](https://github.com/jeev20/3D-static-and-dynamic-plots-with-Matplotlib-and-Pyqt/blob/master/3Dplots.gif?raw=true)
 
 References:
 https://matplotlib.org/examples/user_interfaces/embedding_in_qt4.html 
