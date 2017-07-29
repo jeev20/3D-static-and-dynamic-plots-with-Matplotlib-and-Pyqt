@@ -11,6 +11,8 @@ Dynamic plot:
 Edit class MyDynamicMplCanvas
 
 Result: 
+
+
 ![alt tag](https://github.com/jeev20/3D-static-and-dynamic-plots-with-Matplotlib-and-Pyqt/blob/master/Example.png?raw=true)
 
 References:
