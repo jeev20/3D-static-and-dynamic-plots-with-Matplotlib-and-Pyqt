@@ -1,16 +1,12 @@
-Features
-Makes static and dynamic 3D plots using Matplotlib.
+Features: Makes static and dynamic 3D plots using Matplotlib.
 
-Dependencies 
-PyQt4
-numpy
+Dependencies: PyQt4 and numpy
 
-Usage
 Static plot : Edit class MyStaticMplCanvas
 
 Dynamic plot: Edit class MyDynamicMplCanvas
 
 
-References 
+References:
 https://matplotlib.org/examples/user_interfaces/embedding_in_qt4.html 
 
